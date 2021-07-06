@@ -1,8 +1,8 @@
 {
   "name": "duotone-night-runner-syntax",
   "theme": "syntax",
-  "version": "2.1.0",
-  "description": "DuoTone Night runner theme",
+  "version": "2.2.0",
+  "description": "Master template for DuoTone syntax themes",
   "keywords": [
     "duotone",
     "syntax",
