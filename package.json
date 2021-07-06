@@ -1,11 +1,12 @@
 {
-  "name": "duotone-syntax",
+  "name": "duotone-night-runner-syntax",
   "theme": "syntax",
   "version": "2.1.0",
-  "description": "Master template for DuoTone syntax themes",
+  "description": "DuoTone Night runner theme",
   "keywords": [
     "duotone",
-    "syntax"
+    "syntax",
+    "night-runner"
   ],
   "repository": "https://github.com/simurai/duotone-syntax",
   "license": "MIT",
